@@ -5,6 +5,6 @@ def shapearea(n):
 	d = b*2
 	for i in range(100):
 		a = c*d+1
-		return a
+		print(a)
 
 shapearea(n)
