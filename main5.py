@@ -1,4 +1,4 @@
-n = input('enter nmuber for area :')
+n = input('Enter nmuber for Area :')
 def shapearea(n):
 	b = int(n)
 	c = b-1
